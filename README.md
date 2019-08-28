@@ -1,2 +1,28 @@
 # Flowers-Classification
 Classify the flowers in different groups
+
+# TensorFlow graph data files
+events.out.tfevents*
+
+/bottleneck
+
+/bottleneck_data
+
+/imagenet
+
+/model
+
+/retrain_logs
+
+flower_photos.tar
+flower_photos.tgz
+
+output_graph.pb
+output_labels.txt
+
+/training_images
+
+/test_images
+
+retrained_graph.pb
+retrained_labels.txt
